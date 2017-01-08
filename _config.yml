@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         Kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Leia's Cooking Advice"
+tagline:          'Cooking advice from Leia'
+description:      ''
+brand:            'LeiasCookingAdvice'
+url:              http://pirategrunt.github.io/LeiasCookingAdvice/
+baseurl:          /LeiasCookingAdvice
+theme:            Cerulean
+
+author:
+  name:           'Brian A. Fannin'
+  url:            https://PirateGrunt.com
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/PirateGrunt/LeiasCookingAdvice
